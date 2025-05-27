@@ -38,6 +38,12 @@ By the end of this project, you will have a **clean and enriched customer datase
    pip install pandas
 
  3. **Open Jupyter Notebook or your preferred environment::**
+    ```bash
+      jupiter notebook
+
+---
+
+Feel free to explore the code and adapt it! This project is a great starting point for anyone learning data cleaning with Pandas. 🐼💻
 
 ---
 
