@@ -45,3 +45,12 @@ Make sure Python 3.x is installed on your system. Then install the necessary lib
 
 ```bash
 pip install pandas numpy
+```
+
+---
+
+## 👤 Project Maintainer
+- Ulisses Ribeiro
+- ✉️ Ulisses.wrk@gmail.com como n deixar meu nome e tudo mais dentro do bash
+
+
