@@ -26,7 +26,7 @@ Ensure Python 3.x is installed on your system. Then install the required librari
 
 ```bash
 pip install pandas numpy
-
+```
 ---
 
 ## 👤 Project Maintainer
