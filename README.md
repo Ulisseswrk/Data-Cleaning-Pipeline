@@ -51,6 +51,6 @@ pip install pandas numpy
 
 ## 👤 Project Maintainer
 - Ulisses Ribeiro
-- ✉️ Ulisses.wrk@gmail.com como n deixar meu nome e tudo mais dentro do bash
+- ✉️ Ulisses.wrk@gmail.com
 
 
