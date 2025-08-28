@@ -31,7 +31,7 @@ This pipeline is designed to be modular and easily adaptable to different data s
 
 ## 🛠️ Technologies Used
 
-- Python 3.x  
+- Python 3
 - Pandas — data manipulation and cleaning
   
 ---
