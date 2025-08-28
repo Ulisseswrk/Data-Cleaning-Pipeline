@@ -32,9 +32,8 @@ This pipeline is designed to be modular and easily adaptable to different data s
 ## 🛠️ Technologies Used
 
 - Python 3.x  
-- Pandas — data manipulation and cleaning  
-- NumPy — numerical computing support  
-
+- Pandas — data manipulation and cleaning
+  
 ---
 
 ## 🚀 How to Run
@@ -44,7 +43,7 @@ This pipeline is designed to be modular and easily adaptable to different data s
 Make sure Python 3.x is installed on your system. Then install the necessary libraries:
 
 ```bash
-pip install pandas numpy
+pip install pandas
 ```
 
 ---
